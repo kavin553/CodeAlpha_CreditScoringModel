@@ -175,4 +175,3 @@ Machine Learning Intern @ CodeAlpha
 
 ⭐ If you like this project, give it a star on GitHub ⭐
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"> </div> ```
